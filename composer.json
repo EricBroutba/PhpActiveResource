@@ -1,0 +1,11 @@
+{
+    "name": "phurni/PhpActiveResource",
+    "description": "Active ressource for intranet",
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+      "classmap": [
+          "./"
+      ]
+    }
+}
